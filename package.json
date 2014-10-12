@@ -1,0 +1,31 @@
+{
+  "name": "joo",
+  "version": "0.0.0",
+  "subdomain": "joo",
+  "description": "joo-jit-su!",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.8.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"All tests passed!\""
+  },
+  "engines": {
+    "node": "v0.8.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:nieswiezy/joo.git"
+  },
+  "keywords": [
+    "joo"
+  ],
+  "author": "nieswiezy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nieswiezy/joo/issues"
+  },
+  "homepage": "https://github.com/nieswiezy/joo"
+}
